@@ -99,14 +99,14 @@ FAKE images (AI-manipulated/deepfake).
 
 ## 🔍 Workflow
 
-1️⃣ Data Collection 🗂️ → Gather real & fake images.
-2️⃣ Preprocessing 🖼️ → Resize, normalize, augment.
-3️⃣ Dataset Splitting ✂️ → Train/Validation/Test.
-4️⃣ Model Building 🧠 → CNN/Transfer Learning.
-5️⃣ Training 🏋️ → Epochs, optimizer tuning.
-6️⃣ Evaluation 📊 → Accuracy & confusion matrix.
-7️⃣ Prediction 🔮 → Classify new images.
-8️⃣ Results ✅ → Accuracy comparison & visualization.
+- 1️⃣ Data Collection 🗂️ → Gather real & fake images.
+- 2️⃣ Preprocessing 🖼️ → Resize, normalize, augment.
+- 3️⃣ Dataset Splitting ✂️ → Train/Validation/Test.
+- 4️⃣ Model Building 🧠 → CNN/Transfer Learning.
+- 5️⃣ Training 🏋️ → Epochs, optimizer tuning.
+- 6️⃣ Evaluation 📊 → Accuracy & confusion matrix.
+- 7️⃣ Prediction 🔮 → Classify new images.
+- 8️⃣ Results ✅ → Accuracy comparison & visualization.
 
 ---
 
@@ -115,10 +115,10 @@ FAKE images (AI-manipulated/deepfake).
 Create a requirements.txt with:
 
 tensorflow==2.20.0
-numpy
-matplotlib
-opencv-python
-scikit-learn
+-numpy
+-matplotlib
+-opencv-python
+-scikit-learn
 
 ---
 
